@@ -31,12 +31,36 @@ And the data requested by the various agencies are not always used to look for
 terrorists. Sometimes the people there just want to   
 [stalk their ex-partners or love interests][loveint]. 
 
+Lesson to learn: Whatever you store on a giant's server can and will be used
+against you.
+
 ## 2. Giants Don't Care
 
 Sure for most people Google works always. Most people also never have their 
 house burglarized. So [when Google suspends your account][google-suspension]
 and you have no way to reach a human to reverse the decision you probably feel 
 like [little Calvin's parents][calvin], betrayed and a little hysterical. 
+
+But clearly you should have carefully read the 
+[code of conduct for Microsoft's Live account][live-coc] before you 
+uploaded [partial human nudity][skydrive] to your SkyDrive account after your 
+beach vacation. Now you got yourself locked out of your emails, pictures, music 
+and your online gaming account because an algorithm though you were sharing 
+porn. You almost wish a human would sift through all your pictures at this 
+point.
+
+Sometimes however you will never learn why your account was suspended like the
+poor fellow who fell into [Yahoo's kafkaesk rabbit hole][yahoo] and only gained
+back access to his email account one month and a complaint to the Better 
+Business Bureau later.
+
+Lesson to learn: Don't expect hel
+
+
+
+
+
+ 
 
 
 
@@ -87,6 +111,9 @@ new home for your data.
 [loveint]: http://blogs.wsj.com/washwire/2013/08/23/nsa-officers-sometimes-spy-on-love-interests/ "NSA Officers Spy on Love Interests"
 [google-suspension]: http://www.slate.com/articles/technology/future_tense/2013/04/life_without_google_when_my_account_was_suspended_i_felt_like_i_d_been_dumped.html "Can You Live Without Google?"
 [calvin]: http://www.gocomics.com/calvinandhobbes/2014/05/20 "This is one of the things you always figure will happen to other people. - Unfortunately we're all someone else to someone else"
+[live-coc]: http://windows.microsoft.com/en-GB/windows-live/code-of-conduct "Windows Life - Code of Conduct"
+[skydrive]: http://www.geek.com/news/skydrive-account-suspensions-prove-you-cant-trust-cloud-storage-1503931/ "SkyDrive account suspensions prove you can’t trust cloud storage"
+[yahoo]: http://www.thegeekprofessor.com/arguing-a-yahoo-account-suspension/ "Arguing a Yahoo! Account Suspension"
 [springpad]: http://www.engadget.com/2014/05/23/springpad-shutting-down/ "Springpad shutting down"
 [catch]: http://research.gigaom.com/2013/08/evernote-competitor-catch-to-shut-down/ "Evernote competitor Catch to shut down"
 [google-reader]: http://edition.cnn.com/2013/03/14/tech/web/google-reader-discontinued/index.html "Google Reader shutting down"
