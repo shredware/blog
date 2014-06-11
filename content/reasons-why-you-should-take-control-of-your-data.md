@@ -4,7 +4,9 @@ Category: self-hosting
 Tags: self-hosting, decentralization
 Slug: 5-reasons-to-self-host
 Author: Christoph Witzany
-Summary: Giants do not care about you. That's why you should stay away from them
+Summary: Giants do not care about you. That's why you should stay away from them.
+
+
 
 
 ## 1. Giants Sell You Out
@@ -34,34 +36,19 @@ terrorists. Sometimes the people there just want to
 Lesson to learn: Whatever you store on a giant's server can and will be used
 against you.
 
-## 2. Giants Don't Care
+## 2. Giants Spy On You
 
-Sure for most people Google works always. Most people also never have their 
-house burglarized. So [when Google suspends your account][google-suspension]
-and you have no way to reach a human to reverse the decision you probably feel 
-like [little Calvin's parents][calvin], betrayed and a little hysterical. 
+We already established that the giants help the government to spy on you. But 
+they themselves wouldn't, right? It's their pitch that your data is safe with 
+them, right? Dropbox even claimed that the files are inaccessible without your 
+account password. [That turned out to be not entirely true][dropbox-claim].
 
-But clearly you should have carefully read the 
-[code of conduct for Microsoft's Live account][live-coc] before you 
-uploaded [partial human nudity][skydrive] to your SkyDrive account after your 
-beach vacation. Now you got yourself locked out of your emails, pictures, music 
-and your online gaming account because an algorithm though you were sharing 
-porn. You almost wish a human would sift through all your pictures at this 
-point.
+But who cares that they can look at your data as long as they don't? Why would
+they right? They will not in most cases.   
+[Unless someone sent you information about a leaked Windows 8 image][hotmail-blogger] 
+to your Hotmail account that is. 
 
-Sometimes however you will never learn why your account was suspended like the
-poor fellow who fell into [Yahoo's kafkaesk rabbit hole][yahoo] and only gained
-back access to his email account one month and a complaint to the Better 
-Business Bureau later.
-
-Lesson to learn: Don't expect hel
-
-
-
-
-
- 
-
+Lesson to learn: The giants will only spy on you if it serves them. 
 
 
 ## 3. Giants Die
@@ -95,12 +82,53 @@ new home for your data.
 
 
 
+## 4. Giants Err
 
-## 4. Giants Spy on You
+While giants usually are swift to throw some of their immeasurable manpower at 
+problems and usually fix them fast, this is offset by the sheer numbers of 
+affected users.
+
+But sometimes the fix to [a problem][yahoo-xss] 
+[is not as effective as the giant wishes][yahoo-xss-2] or proves to be 
+[genuinely unfixable][microsoft-danger] because data has been 
+[irreversibly lost][google-data-loss]. Only 0.2% of the users were affected in 
+the Gmail incident. These 0.2% however were over 150.000 users that had their 
+emails wiped.
+
+Lesson to be learned: If giants err, it affects a lot of people. Even if for 
+the giant it isn't more than a rounding error.
+
+## 5. Giants Don't Care
+
+Sure for most people Google works always. Most people also never have their 
+house burglarized. So [when Google suspends your account][google-suspension]
+and you have no way to reach a human to reverse the decision you probably feel 
+like [little Calvin's parents][calvin], betrayed and a little hysterical. 
+
+But clearly you should have carefully read the 
+[code of conduct for Microsoft's Live account][live-coc] before you 
+uploaded [partial human nudity][skydrive] to your SkyDrive account after your 
+beach vacation. Now you got yourself locked out of your emails, pictures, music 
+and your online gaming account because an algorithm though you were sharing 
+porn. You almost wish a human would sift through all your pictures at this 
+point.
+
+Sometimes however you will never learn why your account was suspended like the
+poor fellow who fell into [Yahoo's kafkaesk rabbit hole][yahoo] and only gained
+back access to his email account one month and a complaint to the Better 
+Business Bureau later.
+
+Lesson to learn: Don't expect help by humans if a giant's algorithm locks you
+out of your account.
 
 
+## Conclusion
 
-## 5. Giants Make Giant Errors
+If this did not convince you to take control over your data, in the next post 
+we will present you with some great projects, that make it easy for you to [be 
+the  captain of your data][cloudfleet]!
+
+
 
 [3-felonies]: http://www.amazon.com/exec/obidos/ASIN/B00505UZ4G/ref=nosim/0sil8 "Three Felonies A Day by Harvey Silverglate"
 [terrorist-nun]: http://topinfopost.com/2013/05/31/82-year-old-nun-about-to-be-sentenced-as-a-terrorist "82 year old nun about to be sentenced as a terrorist"
@@ -123,3 +151,10 @@ new home for your data.
 [keyser-soze-moment]: https://www.youtube.com/watch?v=IkJqKOb0ZhY "... and like that, it's gone"
 [everpix]: http://www.your-digital-life.com/photo-sharing-site-everpix-shutting-down/ "Photo-Sharing Site Everpix Shutting Down"
 [app.net]: http://blog.app.net/2014/05/06/app-net-state-of-the-union/ "App.net State of the Union"
+[dropbox-claim]: http://www.wired.com/2011/05/dropbox-ftc/ "Dropbox Lied to Users About Data Security, Complaint to FTC Alleges"
+[hotmail-blogger]: http://money.cnn.com/2014/03/21/technology/security/microsoft-email/index.html "Microsoft defends its right to read your email"
+[yahoo-xss]: http://thenextweb.com/insider/2013/01/07/yahoo-mail-users-hit-by-widespread-hacking-xss-exploit-seemingly-to-blame/ "Yahoo Mail users hit by widespread hacking, XSS exploit seemingly to blame (Update: Fixed)"
+[yahoo-xss-2]: http://www.offensive-security.com/offsec/yahoo-dom-xss-0day-prevails/ "Yahoo DOM XSS 0day – Not fixed yet!"
+[microsoft-danger]: http://appleinsider.com/articles/09/10/11/microsofts_danger_sidekick_data_loss_casts_dark_on_cloud_computing "Microsoft's Danger Sidekick data loss casts dark on cloud computing"
+[google-data-loss]: http://www.developerfusion.com/news/112985/gmail-data-loss-bug-causes-complete-data-loss-calls-for-tape-backups/ "Gmail data loss bug causes complete data loss, calls for tape backups"
+[cloudfleet]: https://cloudfleet.io/
