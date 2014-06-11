@@ -33,7 +33,7 @@ And the data requested by the various agencies are not always used to look for
 terrorists. Sometimes the people there just want to   
 [stalk their ex-partners or love interests][loveint]. 
 
-Lesson to learn: Whatever you store on a giant's server can and will be used
+__Lesson to learn:__ Whatever you store on a giant's server can and will be used
 against you.
 
 ## 2. Giants Spy On You
@@ -46,9 +46,9 @@ account password. [That turned out to be not entirely true][dropbox-claim].
 But who cares that they can look at your data as long as they don't? Why would
 they right? They will not in most cases.   
 [Unless someone sent you information about a leaked Windows 8 image][hotmail-blogger] 
-to your Hotmail account that is. 
+to your Hotmail account, that is. 
 
-Lesson to learn: The giants will only spy on you if it serves them. 
+__Lesson to learn:__ The giants will only spy on you if it serves them. 
 
 
 ## 3. Giants Die
@@ -61,10 +61,10 @@ years from now? The former users of [Springpad][], [Catch][],
 
 All these services started with grand goals and became integral to the workflow 
 of many users, yet they all had their [Keyser Söze Moment][keyser-soze-moment] 
-when they were shutdown for different reasons.
+when they were shut down for different reasons.
 
 For a company that gives you something for "free", you are alway just a cost 
-center. If they cannot profit from you , or even if they cannot profit enough, 
+center. If they cannot profit from you, or even if they cannot profit enough, 
 your data that you deem safe and sound in their vault lives on borrowed time.
 Sooner or later you will be shown the door unceremoniously and only if you are 
 lucky will they let you collect your belongings through a convenient export 
@@ -76,7 +76,7 @@ thousands of paying users could not save the site. And the last statement by
 [app.net][], despite professing a guarantee to keep the site up "indefinitely" 
 did not convey the jubilant air of a thriving project.
 
-Lesson to learn: Only if you have full control over where and how your data is 
+__Lesson to learn:__ Only if you have full control over where and how your data is 
 stored, you can rest assured that you don't find yourself scrambling to find a 
 new home for your data.
 
@@ -95,7 +95,7 @@ But sometimes the fix to [a problem][yahoo-xss]
 the Gmail incident. These 0.2% however were over 150.000 users that had their 
 emails wiped.
 
-Lesson to be learned: If giants err, it affects a lot of people. Even if for 
+__Lesson to learn:__ If giants err, it affects a lot of people. Even if for 
 the giant it isn't more than a rounding error.
 
 ## 5. Giants Don't Care
@@ -109,7 +109,7 @@ But clearly you should have carefully read the
 [code of conduct for Microsoft's Live account][live-coc] before you 
 uploaded [partial human nudity][skydrive] to your SkyDrive account after your 
 beach vacation. Now you got yourself locked out of your emails, pictures, music 
-and your online gaming account because an algorithm though you were sharing 
+and your online gaming account because an algorithm thought you were sharing 
 porn. You almost wish a human would sift through all your pictures at this 
 point.
 
@@ -118,7 +118,7 @@ poor fellow who fell into [Yahoo's kafkaesk rabbit hole][yahoo] and only gained
 back access to his email account one month and a complaint to the Better 
 Business Bureau later.
 
-Lesson to learn: Don't expect help by humans if a giant's algorithm locks you
+__Lesson to learn:__ Don't expect help by humans if a giant's algorithm locks you
 out of your account.
 
 
