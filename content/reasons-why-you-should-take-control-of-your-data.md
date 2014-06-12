@@ -14,16 +14,16 @@ Summary: Giants do not care about you. That's why you should stay away from them
 You might think you have nothing to hide. But this is not true. In the 
 US [you are probably committing at least a felony a day][3-felonies] and 
 protesting against a nuclear power plant will get you 
-[labeled as terrorist][terrorist-nun] even if you are a 82 year old nun.
+[labeled as terrorist][terrorist-nun], even if you are a 82 year old nun.
 
 In Austria protesting against the sale of fur in a clothing store 
 [can land you in jail for several months][animal-rights]. 
 
-But even if you did nothing wrong you can end up the target of a federal 
+But even if you did nothing wrong, you can end up the target of a federal 
 investigation like this [lawyer from Portland][portland-lawyer] or on the 
 [no fly list][no-fly-list].
 
-In all these cases the companies that you entrusted with your data must and 
+In all these cases, the companies that you entrusted with your data must and 
 will turn every information they have on you over to the government. And it is 
 hard to condemn them. The law compels them to cooperate with law enforcement 
 and if it doesn't [non-compliant executives face retaliation][qwest] 
@@ -44,11 +44,11 @@ them, right? Dropbox even claimed that the files are inaccessible without your
 account password. [That turned out to be not entirely true][dropbox-claim].
 
 But who cares that they can look at your data as long as they don't? Why would
-they right? They will not in most cases.   
+they, right? They will not in most cases.   
 [Unless someone sent you information about a leaked Windows 8 image][hotmail-blogger] 
-to your Hotmail account, that is. 
+to your Hotmail account, that is. Then they will read your mail, you instant messages and whatever else in your account interests them.
 
-__Lesson to learn:__ The giants will only spy on you if it serves them. 
+__Lesson to learn:__ The giants will spy on you if it serves them. 
 
 
 ## 3. Giants Die
@@ -66,14 +66,14 @@ when they were shut down for different reasons.
 For a company that gives you something for "free", you are alway just a cost 
 center. If they cannot profit from you, or even if they cannot profit enough, 
 your data that you deem safe and sound in their vault lives on borrowed time.
-Sooner or later you will be shown the door unceremoniously and only if you are 
+Sooner or later you will be shown the door unceremoniously, and only if you are 
 lucky will they let you collect your belongings through a convenient export 
 tool. 
 
 Of course you are a little bit safer if you use a paid service. But examples 
 like [Everpix][] show that there is no guarantee in paying for a service. Even 
 thousands of paying users could not save the site. And the last statement by 
-[app.net][], despite professing a guarantee to keep the site up "indefinitely" 
+[app.net][], despite professing a guarantee to keep the site up "indefinitely", 
 did not convey the jubilant air of a thriving project.
 
 __Lesson to learn:__ Only if you have full control over where and how your data is 
@@ -88,7 +88,7 @@ While giants usually are swift to throw some of their immeasurable manpower at
 problems and usually fix them fast, this is offset by the sheer numbers of 
 affected users.
 
-But sometimes the fix to [a problem][yahoo-xss] 
+And sometimes the fix to [a problem][yahoo-xss] 
 [is not as effective as the giant wishes][yahoo-xss-2] or proves to be 
 [genuinely unfixable][microsoft-danger] because data has been 
 [irreversibly lost][google-data-loss]. Only 0.2% of the users were affected in 
@@ -100,7 +100,7 @@ the giant it isn't more than a rounding error.
 
 ## 5. Giants Don't Care
 
-Sure for most people Google works always. Most people also never have their 
+Sure, for most people Google works always. Most people also never have their 
 house burglarized. So [when Google suspends your account][google-suspension]
 and you have no way to reach a human to reverse the decision you probably feel 
 like [little Calvin's parents][calvin], betrayed and a little hysterical. 
@@ -113,7 +113,7 @@ and your online gaming account because an algorithm thought you were sharing
 porn. You almost wish a human would sift through all your pictures at this 
 point.
 
-Sometimes however you will never learn why your account was suspended like the
+Sometimes however, you will never learn why your account was suspended like the
 poor fellow who fell into [Yahoo's kafkaesk rabbit hole][yahoo] and only gained
 back access to his email account one month and a complaint to the Better 
 Business Bureau later.
