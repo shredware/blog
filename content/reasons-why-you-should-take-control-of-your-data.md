@@ -12,11 +12,11 @@ Summary: Giants do not care about you. That's why you should stay away from them
 ## 1. Giants Sell You Out
 
 You might think you have nothing to hide. But this is not true. In the 
-US [you are probably committing at least a felony a day][3-felonies] and 
+U.S., [you are probably committing at least a felony a day][3-felonies] and 
 protesting against a nuclear power plant will get you 
-[labeled as terrorist][terrorist-nun], even if you are an 82-year-old nun.
+[labeled as a terrorist][terrorist-nun], even if you are an 82-year-old nun.
 
-In Austria protesting against the sale of fur in a clothing store 
+In Austria, protesting against the sale of fur in a clothing store 
 [can land you in jail for several months][animal-rights]. 
 
 But even if you did nothing wrong, you can end up the target of a federal 
@@ -24,12 +24,12 @@ investigation like this [lawyer from Portland][portland-lawyer] or on the
 [no fly list][no-fly-list].
 
 In all these cases, the companies that you entrusted with your data must and 
-will turn every information they have on you over to the government. And it is 
+will turn all information they have on you over to the government. And it is 
 hard to condemn them. The law compels them to cooperate with law enforcement 
-and if it doesn't [non-compliant executives face retaliation][qwest] 
+and even where it doesn't, [non-compliant executives face retaliation][qwest] 
 nevertheless.
 
-And the data requested by the various agencies are not always used to look for 
+The data requested by the various agencies are not always used to look for 
 terrorists. Sometimes the people there just want to   
 [stalk their ex-partners or love interests][loveint]. 
 
@@ -40,13 +40,13 @@ against you.
 
 We already established that the giants help the government to spy on you. But 
 they themselves wouldn't, right? It's their pitch that your data is safe with 
-them, right? Dropbox even claimed that the files are inaccessible without your 
+them, right? Dropbox even claimed that files you upload are inaccessible without your 
 account password. [That turned out to be not entirely true][dropbox-claim].
 
-But who cares that they can look at your data as long as they don't? Why would
-they, right? They will not in most cases.   
+But who cares that they can look at your data? Why would
+they snoop, right? They will not in most cases.   
 [Unless someone sent you information about a leaked Windows 8 image][hotmail-blogger] 
-to your Hotmail account, that is. Then they will read your mail, your instant messages and whatever else in your account interests them.
+to your Hotmail account, that is. Then they will read your mail, your instant messages and whatever else in your account that interests them.
 
 __Lesson to learn:__ The giants will spy on you if it serves them. 
 
@@ -63,58 +63,58 @@ All these services started with grand goals and became integral to the workflow
 of many users, yet they all had their [Keyser Söze Moment][keyser-soze-moment] 
 when they were shut down for different reasons.
 
-For a company that gives you something for "free", you are always just a cost 
+For a company that gives you something for "free," you are always just a cost 
 center. If they cannot profit from you, or even if they cannot profit enough, 
 your data that you deem safe and sound in their vault lives on borrowed time.
 Sooner or later you will be shown the door unceremoniously, and only if you are 
 lucky will they let you collect your belongings through a convenient export 
 tool. 
 
-Of course you are a little bit safer if you use a paid service. But examples 
-like [Everpix][] show that there is no guarantee in paying for a service. Even 
-thousands of paying users could not save the site. And the last statement by 
-[app.net][], despite professing a guarantee to keep the site up "indefinitely", 
-did not convey the jubilant air of a thriving project.
+Of course, you are a little bit safer if you use a paid service. But examples 
+like [Everpix][] show that there is no guarantee when you pay for a service. Even 
+thousands of paying users could not save the site. And the latest blog post by 
+[app.net][], despite professing a guarantee to keep the site up "indefinitely," 
+did not convey the jubilant optimism of a thriving project.
 
 __Lesson to learn:__ Only if you have full control over where and how your data is 
-stored, you can rest assured that you don't find yourself scrambling to find a 
+stored will you be able to rest assured that you won't find yourself scrambling to find a 
 new home for your data.
 
 
 
 ## 4. Giants Err
 
-While giants usually are swift to throw some of their immeasurable manpower at 
-problems and usually fix them fast, this is offset by the sheer numbers of 
+While giants are usually swift to throw their immeasurable resources at 
+problems and can usually fix them fast, this is offset by the sheer number of 
 affected users.
 
-And sometimes the fix to [a problem][yahoo-xss] 
-[is not as effective as the giant wishes][yahoo-xss-2] or proves to be 
+And sometimes the solution to [a problem][yahoo-xss] 
+[is not as effective as the giant would wish][yahoo-xss-2] or proves to be 
 [genuinely unfixable][microsoft-danger] because data has been 
-[irreversibly lost][google-data-loss]. Only 0.2% of the users were affected in 
-the Gmail incident. These 0.2% however were over 150.000 users that had their 
+[irreversibly lost][google-data-loss]. Only 0.2% of users were affected in 
+the Gmail incident. These 0.2%, however, amounted to 150,000 users who had their 
 emails wiped.
 
-__Lesson to learn:__ If giants err, it affects a lot of people. Even if for 
+__Lesson to learn:__ If giants err, it affects a lot of people, even if for 
 the giant it isn't more than a rounding error.
 
 ## 5. Giants Don't Care
 
-Sure, for most people Google works always. Most people also never have their 
-house burglarized. So [when Google suspends your account][google-suspension]
-and you have no way to reach a human to reverse the decision you probably feel 
+Most people will never have their Google account suspended. Most people also never have their 
+house burglarized. So [when Google shuts you out][google-suspension]
+and you have no way to reach a human to reverse the decision, you will probably feel 
 like [little Calvin's parents][calvin], betrayed and a little hysterical. 
 
-But clearly you should have carefully read the 
+Clearly, you should have carefully read the 
 [code of conduct for Microsoft's Live account][live-coc] before you 
 uploaded [partial human nudity][skydrive] to your SkyDrive account after your 
 beach vacation. Now you got yourself locked out of your emails, pictures, music 
 and your online gaming account because an algorithm thought you were sharing 
-porn. You almost wish a human would sift through all your pictures at this 
+porn. You almost wish it were a human sifting through all your pictures at this 
 point.
 
-Sometimes however, you will never learn why your account was suspended like the
-poor fellow who fell into [Yahoo's kafkaesk rabbit hole][yahoo] and only gained
+Sometimes, however, you will never learn why your account was suspended, like the
+poor fellow who fell into [Yahoo's Kafkaesque rabbit hole][yahoo] and only gained
 back access to his email account one month and a complaint to the Better 
 Business Bureau later.
 
@@ -124,8 +124,8 @@ out of your account.
 
 ## Conclusion
 
-If this did not convince you to take control over your data, in the next post 
-we will present you with some great projects, that make it easy for you to [be 
+If this convinced you to take control over your data, in the next post 
+we will present you with some great projects that make it easy for you to [be 
 the  captain of your data][cloudfleet]!
 
 
