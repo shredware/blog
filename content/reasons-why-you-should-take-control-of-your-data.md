@@ -14,7 +14,7 @@ Summary: Giants do not care about you. That's why you should stay away from them
 You might think you have nothing to hide. But this is not true. In the 
 US [you are probably committing at least a felony a day][3-felonies] and 
 protesting against a nuclear power plant will get you 
-[labeled as terrorist][terrorist-nun], even if you are a 82 year old nun.
+[labeled as terrorist][terrorist-nun], even if you are an 82-year-old nun.
 
 In Austria protesting against the sale of fur in a clothing store 
 [can land you in jail for several months][animal-rights]. 
@@ -46,14 +46,14 @@ account password. [That turned out to be not entirely true][dropbox-claim].
 But who cares that they can look at your data as long as they don't? Why would
 they, right? They will not in most cases.   
 [Unless someone sent you information about a leaked Windows 8 image][hotmail-blogger] 
-to your Hotmail account, that is. Then they will read your mail, you instant messages and whatever else in your account interests them.
+to your Hotmail account, that is. Then they will read your mail, your instant messages and whatever else in your account interests them.
 
 __Lesson to learn:__ The giants will spy on you if it serves them. 
 
 
 ## 3. Giants Die
 
-You probably assume that Gmail or Dropbox will be there forever. But so did the
+You probably assume that Gmail or Dropbox will be there forever; so did the
 people using MySpace. But would you bet on the fact that it will be here 5 
 years from now? The former users of [Springpad][], [Catch][],
 [Google Reader][google-reader], [Ubuntu One][ubuntu-one], [Lavabit][] and 
@@ -63,7 +63,7 @@ All these services started with grand goals and became integral to the workflow
 of many users, yet they all had their [Keyser Söze Moment][keyser-soze-moment] 
 when they were shut down for different reasons.
 
-For a company that gives you something for "free", you are alway just a cost 
+For a company that gives you something for "free", you are always just a cost 
 center. If they cannot profit from you, or even if they cannot profit enough, 
 your data that you deem safe and sound in their vault lives on borrowed time.
 Sooner or later you will be shown the door unceremoniously, and only if you are 
