@@ -1,4 +1,4 @@
-Title: 5 reasons why you should take control over your data
+Title: 5 Reasons Why You Should Take Control Over Your Data
 Date: 2014-05-23 19:03
 Category: self-hosting
 Tags: self-hosting, decentralization
