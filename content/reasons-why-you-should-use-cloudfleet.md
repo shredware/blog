@@ -27,7 +27,7 @@ the web what is absolutely necessary for you to use it.
 
 We will also offer a Two Factor Authentication like you know it from your bank.
 
-## 2. Cloudfleet Makes Sure You Can Always Access To Your Data
+## 2. CloudFleet Makes Sure You Can Always Access To Your Data
 
 Whatever happens in the future you will always be able to access your data.
 
@@ -49,7 +49,7 @@ with the ActiveSync protocol.
 If possible, your emails will be encrypted. To make this easy CloudFleet uses 
 PGP, the standard that is most widely used to encrypt and sign emails.
 
-CloudFleet will synchronize your calendar appointmentsand contacts across all 
+CloudFleet will synchronize your calendar appointments and contacts across all 
 your devices, like you are used to. 
 
 For the Calendar CloudFleet uses the CalDAV standard that is understood by all 
