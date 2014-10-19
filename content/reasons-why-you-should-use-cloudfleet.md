@@ -36,7 +36,7 @@ encrypted copy of your data we will safely store for you. Whenever you need to
 restore it you will be able to do it.
 
 The CloudFleet box, with all your data on it is yours and no one can cancel the 
-service. Even if you decide to leave the CLoudFleet services the device and your 
+service. Even if you decide to leave the CloudFleet services the device and your 
 data will stay with you and be accessible from your home network.
 
 
