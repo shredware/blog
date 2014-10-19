@@ -17,7 +17,7 @@ CloudFleet device at your home and even we have no way to access it. Because of
 this no government authority can compell us to turn over your data and your 
 profile will not be sold to bombard you with targeted ads.
 
-CloudFleet is the safe house for your digital identity. The CloudFleet 
+CloudFleet is the safe haven for your digital identity. The CloudFleet 
 device will act as your personal digital assistant doing all processing directly
 on the device. Data will only leave it if you explicitely authorize it.
 
