@@ -39,7 +39,7 @@ People should be free to talk to whomever they like, without unwanted eavesdropp
  
 #### In what ways do you think CloudFleet can solve the problem of privacy?
 
-Given our current technological advances it should be as difficult as it is to achieve both privacy and ease of use. With CloudFleet we want to show how it should be done.
+Given our current technological advances it shouldn't be as difficult as it is to achieve both privacy and ease of use. With CloudFleet we want to show how it should be done.
  
 #### What makes you a valuable asset to CloudFleet?
 
