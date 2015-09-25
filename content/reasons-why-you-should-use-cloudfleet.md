@@ -7,14 +7,11 @@ Author: CloudFleet
 Summary: CloudFleet brings privacy, safety and interoperability to your mails
 
 
-3 Reasons Why You Should Use CloudFleet
-=======================================
-
 ## 1. CloudFleet Protects Your Privacy
 
 CloudFleet stores all your mails, calendar entries, contacts and files on your
 CloudFleet device at your home and even we have no way to access it. Because of
-this no government authority can compel us to turn over your data and your 
+this no government authority can compel us to turn over your data and your
 profile will not be sold to bombard you with targeted ads.
 
 CloudFleet is the safe haven for your digital identity. The CloudFleet
