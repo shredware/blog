@@ -1,9 +1,9 @@
 Title: 3 Reasons Why You Should Use CloudFleet
-Date: 2014-10-01 19:00
+Date: 2015-10-25 19:00
 Category: self-hosting
 Tags: self-hosting, decentralization
 Slug: 3-reasons-for-cloudfleet
-Author: CloudFleet
+Author: Christoph Witzany
 Summary: CloudFleet brings privacy, safety and interoperability to your mails
 
 

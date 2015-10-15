@@ -1,5 +1,5 @@
 Title: 5 Reasons Why You Should Take Control Over Your Data
-Date: 2014-05-23 19:03
+Date: 2015-10-18 19:00
 Category: self-hosting
 Tags: self-hosting, decentralization
 Slug: 5-reasons-to-self-host
@@ -11,111 +11,111 @@ Summary: Giants do not care about you. That's why you should stay away from them
 
 ## 1. Giants Sell You Out
 
-You might think you have nothing to hide. But this is not true. In the 
-U.S., [you are probably committing at least a felony a day][3-felonies] and 
-protesting against a nuclear power plant will get you 
+You might think you have nothing to hide. But this is not true. In the
+U.S., [you are probably committing at least a felony a day][3-felonies] and
+protesting against a nuclear power plant will get you
 [labeled as a terrorist][terrorist-nun], even if you are an 82-year-old nun.
 
-In Austria, protesting against the sale of fur in a clothing store 
-[can land you in jail for several months][animal-rights]. 
+In Austria, protesting against the sale of fur in a clothing store
+[can land you in jail for several months][animal-rights].
 
-But even if you did nothing wrong, you can end up the target of a federal 
-investigation like this [lawyer from Portland][portland-lawyer] or on the 
+But even if you did nothing wrong, you can end up the target of a federal
+investigation like this [lawyer from Portland][portland-lawyer] or on the
 [no fly list][no-fly-list].
 
-In all these cases, the companies that you entrusted with your data must and 
-will turn all information they have on you over to the government. And it is 
-hard to condemn them. The law compels them to cooperate with law enforcement 
-and even where it doesn't, [non-compliant executives face retaliation][qwest] 
+In all these cases, the companies that you entrusted with your data must and
+will turn all information they have on you over to the government. And it is
+hard to condemn them. The law compels them to cooperate with law enforcement
+and even where it doesn't, [non-compliant executives face retaliation][qwest]
 nevertheless.
 
-The data requested by the various agencies are not always used to look for 
+The data requested by the various agencies are not always used to look for
 terrorists. Sometimes the people there just want to   
-[stalk their ex-partners or love interests][loveint]. 
+[stalk their ex-partners or love interests][loveint].
 
 __Lesson to learn:__ Whatever you store on a giant's server can and will be used
 against you.
 
 ## 2. Giants Spy On You
 
-We already established that the giants help the government to spy on you. But 
-they themselves wouldn't, right? It's their pitch that your data is safe with 
-them, right? Dropbox even claimed that files you upload are inaccessible without your 
+We already established that the giants help the government to spy on you. But
+they themselves wouldn't, right? It's their pitch that your data is safe with
+them, right? Dropbox even claimed that files you upload are inaccessible without your
 account password. [That turned out to be not entirely true][dropbox-claim].
 
 But who cares that they can look at your data? Why would
 they snoop, right? They will not in most cases.   
-[Unless someone sent you information about a leaked Windows 8 image][hotmail-blogger] 
+[Unless someone sent you information about a leaked Windows 8 image][hotmail-blogger]
 to your Hotmail account, that is. Then they will read your mail, your instant messages and whatever else in your account that interests them.
 
-__Lesson to learn:__ The giants will spy on you if it serves them. 
+__Lesson to learn:__ The giants will spy on you if it serves them.
 
 
 ## 3. Giants Die
 
 You probably assume that Gmail or Dropbox will be there forever; so did the
-people using MySpace. But would you bet on the fact that it will be here 5 
+people using MySpace. But would you bet on the fact that it will be here 5
 years from now? The former users of [Springpad][], [Catch][],
-[Google Reader][google-reader], [Ubuntu One][ubuntu-one], [Lavabit][] and 
-[Posterous][] might bet against you. 
+[Google Reader][google-reader], [Ubuntu One][ubuntu-one], [Lavabit][] and
+[Posterous][] might bet against you.
 
-All these services started with grand goals and became integral to the workflow 
-of many users, yet they all had their [Keyser Söze Moment][keyser-soze-moment] 
+All these services started with grand goals and became integral to the workflow
+of many users, yet they all had their [Keyser Söze Moment][keyser-soze-moment]
 when they were shut down for different reasons.
 
-For a company that gives you something for "free," you are always just a cost 
-center. If they cannot profit from you, or even if they cannot profit enough, 
+For a company that gives you something for "free," you are always just a cost
+center. If they cannot profit from you, or even if they cannot profit enough,
 your data that you deem safe and sound in their vault lives on borrowed time.
-Sooner or later you will be shown the door unceremoniously, and only if you are 
-lucky will they let you collect your belongings through a convenient export 
-tool. 
+Sooner or later you will be shown the door unceremoniously, and only if you are
+lucky will they let you collect your belongings through a convenient export
+tool.
 
-Of course, you are a little bit safer if you use a paid service. But examples 
-like [Everpix][] show that there is no guarantee when you pay for a service. Even 
-thousands of paying users could not save the site. And the latest blog post by 
-[app.net][], despite professing a guarantee to keep the site up "indefinitely," 
+Of course, you are a little bit safer if you use a paid service. But examples
+like [Everpix][] show that there is no guarantee when you pay for a service. Even
+thousands of paying users could not save the site. And the latest blog post by
+[app.net][], despite professing a guarantee to keep the site up "indefinitely,"
 did not convey the jubilant optimism of a thriving project.
 
-__Lesson to learn:__ Only if you have full control over where and how your data is 
-stored will you be able to rest assured that you won't find yourself scrambling to find a 
+__Lesson to learn:__ Only if you have full control over where and how your data is
+stored will you be able to rest assured that you won't find yourself scrambling to find a
 new home for your data.
 
 
 
 ## 4. Giants Err
 
-While giants are usually swift to throw their immeasurable resources at 
-problems and can usually fix them fast, this is offset by the sheer number of 
+While giants are usually swift to throw their immeasurable resources at
+problems and can usually fix them fast, this is offset by the sheer number of
 affected users.
 
-And sometimes the solution to [a problem][yahoo-xss] 
-[is not as effective as the giant would wish][yahoo-xss-2] or proves to be 
-[genuinely unfixable][microsoft-danger] because data has been 
-[irreversibly lost][google-data-loss]. Only 0.2% of users were affected in 
-the Gmail incident. These 0.2%, however, amounted to 150,000 users who had their 
+And sometimes the solution to [a problem][yahoo-xss]
+[is not as effective as the giant would wish][yahoo-xss-2] or proves to be
+[genuinely unfixable][microsoft-danger] because data has been
+[irreversibly lost][google-data-loss]. Only 0.2% of users were affected in
+the Gmail incident. These 0.2%, however, amounted to 150,000 users who had their
 emails wiped.
 
-__Lesson to learn:__ If giants err, it affects a lot of people, even if for 
+__Lesson to learn:__ If giants err, it affects a lot of people, even if for
 the giant it isn't more than a rounding error.
 
 ## 5. Giants Don't Care
 
-Most people will never have their Google account suspended. Most people also never have their 
+Most people will never have their Google account suspended. Most people also never have their
 house burglarized. So [when Google shuts you out][google-suspension]
-and you have no way to reach a human to reverse the decision, you will probably feel 
-like [little Calvin's parents][calvin], betrayed and a little hysterical. 
+and you have no way to reach a human to reverse the decision, you will probably feel
+like [little Calvin's parents][calvin], betrayed and a little hysterical.
 
-Clearly, you should have carefully read the 
-[code of conduct for Microsoft's Live account][live-coc] before you 
-uploaded [partial human nudity][skydrive] to your SkyDrive account after your 
-beach vacation. Now you got yourself locked out of your emails, pictures, music 
-and your online gaming account because an algorithm thought you were sharing 
-porn. You almost wish it were a human sifting through all your pictures at this 
+Clearly, you should have carefully read the
+[code of conduct for Microsoft's Live account][live-coc] before you
+uploaded [partial human nudity][skydrive] to your SkyDrive account after your
+beach vacation. Now you got yourself locked out of your emails, pictures, music
+and your online gaming account because an algorithm thought you were sharing
+porn. You almost wish it were a human sifting through all your pictures at this
 point.
 
 Sometimes, however, you will never learn why your account was suspended, like the
 poor fellow who fell into [Yahoo's Kafkaesque rabbit hole][yahoo] and only gained
-back access to his email account one month and a complaint to the Better 
+back access to his email account one month and a complaint to the Better
 Business Bureau later.
 
 __Lesson to learn:__ Don't expect help by humans if a giant's algorithm locks you
@@ -124,8 +124,8 @@ out of your account.
 
 ## Conclusion
 
-If this convinced you to take control over your data, in the next post 
-we will present you with some great projects that make it easy for you to [be 
+If this convinced you to take control over your data, in the next post
+we will present you with some great projects that make it easy for you to [be
 the  captain of your data][cloudfleet]!
 
 
