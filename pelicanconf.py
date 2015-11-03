@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 PATH = "content"
 
-AUTHOR = u'cloudfleet admiralty'
-SITENAME = u"cloudfleet - captain's log"
+AUTHOR = u'CloudFleet Admiralty'
+SITENAME = u"CloudFleet - Captain's log"
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
