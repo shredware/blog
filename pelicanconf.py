@@ -12,6 +12,11 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -26,7 +31,7 @@ TRANSLATION_FEED_ATOM = None
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
-          
+
 THEME = u'cloudfleet-pelican'
 
 DEFAULT_PAGINATION = False
