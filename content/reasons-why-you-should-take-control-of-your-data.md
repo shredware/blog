@@ -1,10 +1,12 @@
 Title: 5 Reasons Why You Should Take Control Over Your Data
-Date: 2015-10-18 19:00
+Date: 2015-11-03 19:30
 Category: self-hosting
 Tags: self-hosting, decentralization
 Slug: 5-reasons-to-self-host
 Author: Christoph Witzany
+Author_link: https://cloudfleet.io/#team-4
 Summary: Giants do not care about you. That's why you should stay away from them.
+Status: published
 
 
 
