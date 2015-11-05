@@ -1,9 +1,10 @@
 Title: Meet our team – Dražen
 Date: 2015-08-30 10:00
 Category: general
-Tags: team, dražen
+Tags: team
 Slug: meet-our-team-drazen
 Author: Laura Gaetano
+Author_link: https://cloudfleet.io/#team-6
 Summary: Introducing the Captain of the Data Blizzard
 
 ## Introducing the Captain of the Data Blizzard
@@ -19,7 +20,7 @@ I was always around computers, from playing games as a kid to later on studying 
 
 ## What is your role in CloudFleet?
 
-I am mainly a backend developer, responsible for the centralised CloudFleet services like Spire for Blimp ordering, Pagekite for tunneling traffic, the API for authentication and uploading SSL certificates etc. I am also hacking on the physical devices to set up correct images and have recently started working on Marina, our service for more dependable Docker ARM image building. I mostly write code in Python, although JavaScript, Bash and other technologies are not foreign to me either.
+I am mainly a backend developer, responsible for the centralized CloudFleet services like Spire for Blimp ordering, Pagekite for tunneling traffic, the API for authentication and uploading SSL certificates etc. I am also hacking on the physical devices to set up correct images and have recently started working on Marina, our service for more dependable Docker ARM image building. I mostly write code in Python, although JavaScript, Bash and other technologies are not foreign to me either.
 
 ## Are you currently fully involved in CloudFleet? If not, where do you work/what do you do?
 
@@ -43,4 +44,4 @@ Given our current technological advances it shouldn't be as difficult as it is t
 
 ## What makes you a valuable asset to CloudFleet?
 
-I've been hacking together servers and Rapsberry Pis for myself and others in my household for years. With CloudFleet, I am simply looking to take what I've learned so far and enable others to set up similar systems without investing that much time. Also, through my research, development work and involvement with open source projects, I think I've obtained skills in development, organisation and communication that can be helpful to make CloudFleet a successful project.
+I've been hacking together servers and Raspberry Pis for myself and others in my household for years. With CloudFleet, I am simply looking to take what I've learned so far and enable others to set up similar systems without investing that much time. Also, through my research, development work and involvement with open source projects, I think I've obtained skills in development, organization and communication that can be helpful to make CloudFleet a successful project.
