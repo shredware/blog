@@ -22,3 +22,5 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+PIWIK_URL = 'analytics.cloudfleet-hq.net/'
