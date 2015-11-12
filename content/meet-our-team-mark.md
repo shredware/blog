@@ -18,17 +18,17 @@ software development, his natural pigmentation is not yellow.
 
 After growing up in various parts of the world, Mark eventually made
 it to Cornell University in Ithaca, NY, where, overwhelmed by the
-possiblities, he attempted to train himself to be able to read any
+possibilities, he attempted to train himself to be able to read any
 book on his own later on.  While working through a Physics degree with
-a concentraion in Mathematics, and having extensive exposure to the
-pre-commerical Internet, Mark became more interested in the
+a concentration in Mathematics, and having extensive exposure to the
+pre-commercial Internet, Mark became more interested in the
 computational aspects of working with a near-infrared astrononmy group
 attempting to image proto-stellar disks around nearby suns.  This led
 to a stint designing a virtual reality operating system (MOSES) at the
 Human Interface Technology Laboratory in Seattle, WA.  After drifting
 around the states in an '87 Civic hatchback, washing dishes and
 writing poetry, Mark ended up in New York City on the day of Clinton's
-first inauguration.  Quickly swept up in the commericializing
+first inauguration.  Quickly swept up in the commercializing
 Internet, Mark worked for a variety of established firms and scrappy
 startups at the daybreak of what we now know as the World Wide Web.
 
