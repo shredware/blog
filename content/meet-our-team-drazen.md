@@ -1,10 +1,10 @@
 Title: Meet our team – Dražen
-Date: 2015-08-30 10:00
+Date: 2015-11-14 10:00
 Category: general
 Tags: team
 Slug: meet-our-team-drazen
 Author: Laura Gaetano
-Author_link: https://cloudfleet.io/#team-6
+Author_link: https://cloudfleet.io/#team-tabs
 Summary: Introducing the Captain of the Data Blizzard
 
 
