@@ -2,13 +2,16 @@ Title: Meet our team – Dražen
 Date: 2015-08-30 10:00
 Category: general
 Tags: team
-Slug: meet-our-team-drazen-2
+Slug: meet-our-team-drazen
 Author: Laura Gaetano
 Author_link: https://cloudfleet.io/#team-6
 Summary: Introducing the Captain of the Data Blizzard
 
+
+
 ## Introducing the Captain of the Data Blizzard
 
+<img class="intro-image" src="{filename}/img/Drazen.png" style="float: left; width: 25%; margin: 0.5em">
 Today we'll start to introduce our team members, starting with our Captain of
 the Data Blizzard: Dražen Lučanin. Dražen is one of the co-founders of
 CloudFleet and was born and raised in Zagreb, Croatia.
@@ -55,3 +58,9 @@ Croatian called [Epic Adventure](http://epska.org/) about a band of slightly
 incompetent characters trying to be epic heroes now and then."
 
 To stay healthy, he cycles around town and enjoys skiing, hiking and swimming.
+
+## More from the Captain
+
+If you want to read what Dražen has to say you can follow his
+[blog](http://metakermit.com) where he documents random hacks or his Twitter
+account [@metakermit](https://twitter.com/metakermit).
