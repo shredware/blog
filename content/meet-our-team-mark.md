@@ -1,7 +1,7 @@
 Title:  Meet our team - Mark
-Date: 2015-11-12 09:16
+Date: 2015-11-15 08:37
 Category: general
-Tags: team, christoph
+Tags: team, mark
 Slug: meet-our-team-mark
 Author:  Mark Evenson
 Summary: Introducing our Commodore x40
@@ -16,63 +16,75 @@ software development, his natural pigmentation is not yellow.
 
 ## What is your background? What did you study, what job experience do you have and in which field(s)?
 
-After growing up in various parts of the world, Mark eventually made
-it to Cornell University in Ithaca, NY, where, overwhelmed by the
-possibilities, he attempted to train himself to be able to read any
-book on his own later on.  While working through a Physics degree with
-a concentration in Mathematics, and having extensive exposure to the
-pre-commercial Internet, Mark became more interested in the
-computational aspects of working with a near-infrared astrononmy group
-attempting to image proto-stellar disks around nearby suns.  This led
-to a stint designing a virtual reality operating system (MOSES) at the
-Human Interface Technology Laboratory in Seattle, WA.  After drifting
-around the states in an '87 Civic hatchback, washing dishes and
-writing poetry, Mark ended up in New York City on the day of Clinton's
-first inauguration.  Quickly swept up in the commercializing
-Internet, Mark worked for a variety of established firms and scrappy
-startups at the daybreak of what we now know as the World Wide Web.
+After growing up in various parts of the world, I eventually made it
+to Cornell University in Ithaca, NY, where I was interested in
+studying either English or Physics.  Reasoning that I could always
+pick up a pen to write or a book to read later on, but wouldn't always
+have access to a particle accelerator to fool around with, I decided
+to officially pursue the natural science route.  Having extensive
+exposure to the pre-commercial Internet, I became more interested in
+the computational aspects of working with a near-infrared astrononmy
+group attempting to image proto-stellar disks around nearby suns.
+This led to a stint designing a virtual reality operating system
+(MOSES) at the Human Interface Technology Laboratory in Seattle, WA.
+After drifting around the states in an '87 Civic hatchback, washing
+dishes and writing poetry, I found myself driving to an apartment in
+Harlem, NYC on the day of Clinton's first inauguration.  Quickly swept
+up in the commercializing Internet, Mark worked for a variety of
+established firms and scrappy startups at the daybreak of what we now
+know as the World Wide Web.
 
 ## What is your role in CloudFleet?
 
-Mark is a Jack-of-all-trades and a master of none.  Currently, he
-coordinates the engineering activities towards our "First Customer Ship",
-part of which consists in designing and implementing a zero-knowledge
-backup system.
+I consider myself a seasoned generalist who knows how to specialize
+when needed, a sort Jack-of-all-trades and a master of the one I am
+concentrating on, if you will.  Currently, I am coordinating the
+engineering activities towards our "First Customer Ship", part of
+which consists in designing and implementing a zero-knowledge backup
+system.
 
 ##  Are you currently fully involved in CloudFleet? If not, where do you work/what do you do?
 
-As a co-founder, Mark is currently "all-in" towards the minimal viable
-product ship date.  Most recently, Mark architected, developed and
-deployed a "full stack" next generation Electronic Health Record
-system rooted in semantics (first order description logics) for the
-University at Buffalo School of Dental Medicine.  Dynamically compiled
-Javascript was delivered as a HTML5 client which securely connected
-via TLS to a Java Virtual Machine based application server.
+As a co-founder, I am currently "all-in" towards the minimal viable
+product ship date.  In order to pay the bills before we get some
+reasonable cash flow, I work as a contract software developer.  Most
+recently, I designed, developed and deployed a "full stack" next
+generation Electronic Health Record system rooted in semantics (first
+order description logics) for the University at Buffalo School of
+Dental Medicine.  We dynamically compiled a per-user specific
+Javascript bundle delivered as a HTML5 client which securely connected
+via TLS to a Java Virtual Machine based application server.  I also
+work on various open source projects, the most prominent being Armed
+Bear Common Lisp, a language implementation that runs on a Java
+Virtual Machine.
 
 ## What are some of your current interests and hobbies?
 
-When he gets the time, Mark continues to do recreations Mathematics,
-where he is working on a taxonomy of various known quantum algorithms.
-And he makes what time he can to go surfing, on real waves on a real
-beach.
+When I get the time, which is increasily rear, I continue to do
+recreational mathematics, where I currently am working through ideas
+towards a systematized taxonomy of known algorithms for quantum
+computers.  And, although I currently live inland, I try make what
+time I can to go surfing, on real waves on a real beach.
 
 ## Why are you interested in privacy?
 
 Instinctively, I have always been an online privacy advocate since the
 first days of dialing up local BBS numbers via a 300 bp/s modem from
-my Commodore 64 in the 1980s.  Over the years, my interest in privacy
-has come down to the realization that we only get to build one
-Internet: one where everyone can be spied on, or one on which no one
-can be spied on.  Privacy is not just about hiding things, it is also
-about how we assert control over creating out public persona.
+my Commodore 64 in the 1980s (the "x40" in my CloudFleet title is a
+reference to these days, being a representation of "64" in
+hexadecimal).  Over the years, my interest in privacy has come down to
+the realization that we only get to build one Internet: one where
+everyone can be spied on, or one on which no one can be spied on.
+Privacy is not just about hiding things, it is also about how we
+assert control over creating out public persona.
 
 ## In what ways do you think CloudFleet can solve the problem of privacy?
 
-Without a local computation capable of being verified for
-trust one cannot know that the interconnected computer systems we are
-using are not simulations of the ones we expect.  Simulations to the
-point that they either inadvertently or maliciously compromise control
-of our own data.
+Without a local computation capable of being verified for trust one
+cannot know that the interconnected computer systems we are using are
+not simulations of the ones we expect.  Undistringuishable simulations
+that may either inadvertently or maliciously compromise control of our
+own data.
 
 ## What makes you a valuable asset to CloudFleet?
 
