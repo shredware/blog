@@ -23,16 +23,18 @@ pick up a pen to write or a book to read later on, but wouldn't always
 have access to a particle accelerator to fool around with, I decided
 to officially pursue the natural science route.  Having extensive
 exposure to the pre-commercial Internet, I became more interested in
-the computational aspects of working with a near-infrared astrononmy
+the computational aspects of working with a near-infrared astronomy
 group attempting to image proto-stellar disks around nearby suns.
 This led to a stint designing a virtual reality operating system
 (MOSES) at the Human Interface Technology Laboratory in Seattle, WA.
 After drifting around the states in an '87 Civic hatchback, washing
 dishes and writing poetry, I found myself driving to an apartment in
-Harlem, NYC on the day of Clinton's first inauguration.  Quickly swept
-up in the commercializing Internet, Mark worked for a variety of
-established firms and scrappy startups at the daybreak of what we now
-know as the World Wide Web.
+Harlem, NYC on the day of Clinton's first inauguration.  While
+wandering around comparing the New York I had read about with the New
+York I know lived in, I was quickly swept up in the commercializing
+Internet.  As it turns out, I worked for a variety of established
+firms and scrappy start ups at the daybreak of what we now know as the
+World Wide Web.
 
 ## What is your role in CloudFleet?
 
@@ -52,7 +54,7 @@ recently, I designed, developed and deployed a "full stack" next
 generation Electronic Health Record system rooted in semantics (first
 order description logics) for the University at Buffalo School of
 Dental Medicine.  We dynamically compiled a per-user specific
-Javascript bundle delivered as a HTML5 client which securely connected
+JavaScript bundle delivered as a HTML5 client which securely connected
 via TLS to a Java Virtual Machine based application server.  I also
 work on various open source projects, the most prominent being Armed
 Bear Common Lisp, a language implementation that runs on a Java
@@ -60,7 +62,7 @@ Virtual Machine.
 
 ## What are some of your current interests and hobbies?
 
-When I get the time, which is increasily rear, I continue to do
+When I get the time, which is increasingly rear, I continue to do
 recreational mathematics, where I currently am working through ideas
 towards a systematized taxonomy of known algorithms for quantum
 computers.  And, although I currently live inland, I try make what
@@ -82,9 +84,10 @@ assert control over creating out public persona.
 
 Without a local computation capable of being verified for trust one
 cannot know that the interconnected computer systems we are using are
-not simulations of the ones we expect.  Undistringuishable simulations
-that may either inadvertently or maliciously compromise control of our
-own data.
+not simulations of the ones we expect.  These projections of our
+mirrorworld offer us only indistinguishable simulations that may
+either inadvertently or maliciously compromise control of our own
+data.
 
 ## What makes you a valuable asset to CloudFleet?
 
