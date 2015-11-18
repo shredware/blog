@@ -6,7 +6,7 @@ Slug: meet-our-team-drazen
 Author: Laura Gaetano
 Author_link: https://cloudfleet.io/#team-tabs
 Summary: Introducing the Captain of the Data Blizzard
-
+Status: published
 
 
 ## Introducing the Captain of the Data Blizzard
