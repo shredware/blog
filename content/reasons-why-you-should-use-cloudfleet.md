@@ -51,3 +51,4 @@ your devices, like you are used to.
 
 For the Calendar CloudFleet uses the CalDAV standard that is understood by all
 current mobile phones and for contacts CardDAV.
+ 
